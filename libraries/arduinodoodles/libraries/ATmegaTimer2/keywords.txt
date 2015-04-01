@@ -1,0 +1,34 @@
+#######################################
+# Syntax Coloring Map For MCHP_93LC56B
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+ATmegaTimer2	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+setControlRegs	KEYWORD2
+setIntMask	KEYWORD2
+setClkSelect	KEYWORD2
+setOutCompare	KEYWORD2
+setValue	KEYWORD2
+forceOutCmpA	KEYWORD2
+forceOutCmpB	KEYWORD2
+clrIntMask	KEYWORD2
+stopTimer	KEYWORD2
+
+#######################################
+# Instances (KEYWORD2)
+#######################################
+
+ATmegaTimer2	KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+

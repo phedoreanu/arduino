@@ -1,0 +1,32 @@
+#######################################
+# Syntax Coloring Map For MCHP_93LC56B
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+MCHP_93LC56B	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+read	KEYWORD2
+write	KEYWORD2
+erase	KEYWORD2
+eral	KEYWORD2
+wral	KEYWORD2
+ewds	KEYWORD2
+ewen	KEYWORD2
+
+#######################################
+# Instances (KEYWORD2)
+#######################################
+
+MCHP_93LC56B	KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+

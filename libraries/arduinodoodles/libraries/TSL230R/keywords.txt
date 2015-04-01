@@ -1,0 +1,32 @@
+#######################################
+# Syntax Coloring Map For TSL230R
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+TSL230R	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+enableOut	KEYWORD2
+disableOut	KEYWORD2
+setSensitivity	KEYWORD2
+getSensitivity	KEYWORD2
+setFreqScaling	KEYWORD2
+getFreqScaling	KEYWORD2
+freq2irradiance	KEYWORD2
+
+#######################################
+# Instances (KEYWORD2)
+#######################################
+
+TSL230R	KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+

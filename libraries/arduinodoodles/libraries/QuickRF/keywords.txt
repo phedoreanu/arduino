@@ -1,0 +1,31 @@
+#######################################
+# Syntax Coloring Map For MCHP_93LC56B
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+QuickCLI	KEYWORD1
+QuickCLIMethod	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+init	KEYWORD2
+setMethods	KEYWORD2
+process	KEYWORD2
+execute	KEYWORD2
+
+#######################################
+# Instances (KEYWORD2)
+#######################################
+
+QuickCLI	KEYWORD2
+QuickCLIMethod	KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+

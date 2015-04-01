@@ -1,0 +1,33 @@
+#######################################
+# Syntax Coloring Map For AltTWI
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+AltTWI	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+init	KEYWORD2
+setTXCallback	KEYWORD2
+setRXCallback	KEYWORD2
+sendToMaster	KEYWORD2
+sendToSlave	KEYWORD2
+getFromSlave	KEYWORD2
+printAllRegs	KEYWORD2
+printTWIStatus	KEYWORD2
+
+#######################################
+# Instances (KEYWORD2)
+#######################################
+
+AltTWI	KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+
